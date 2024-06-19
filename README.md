@@ -3,10 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shitcodebykaushik&theme=juicyfresh" alt="shitcodebykaushik" /></a> </p>
 
-- 🔭 I’m currently working on **Rust**
+- 🔭 I’m currently working on **Express js**
 - 👯 I’m looking to collaborate on **Rust**
-- 🌱 I’m currently learning **Rust **
-- 💬 Ask me about **Flutter ,C++, C, Rust**
+- 🌱 I’m currently learning **Devops **
+- 💬 Ask me about **JavaScript ,C++, C, Rust**
 - 📫 Reach me here **algorithmunloack@gmail.com**
 - ⚡ Fun fact **Discover a wheel and spin it.**
 
