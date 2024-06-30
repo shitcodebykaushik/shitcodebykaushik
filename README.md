@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Express js**
 - 👯 I’m looking to collaborate on **Rust**
 - 🌱 I’m currently learning **Devops**
-- 💬 Ask me about **JavaScript ,C++, C, Rust**
+- 💬 Ask me about **JavaScript ,Rust,DEV-OPS**
 - 📫 Reach me here **algorithmunloack@gmail.com**
 - ⚡ Fun fact **Discover a wheel and spin it.**
 
