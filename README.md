@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shitcodebykaushik&theme=juicyfresh" alt="shitcodebykaushik" /></a> </p>
 
-- 🔭 I’m currently working on **Express js**
+- 🔭 I’m currently working on **Python and React-native**
 - 👯 I’m looking to collaborate on **Rust**
 - 🌱 I’m currently learning **Devops**
 - 💬 Ask me about **JavaScript ,Rust,DEV-OPS**
