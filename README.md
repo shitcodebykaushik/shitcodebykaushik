@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Devops**
 - 💬 Ask me about **JavaScript ,Rust,DEV-OPS**
 - 📫 Reach me here **algorithmunloack@gmail.com**
+- 🌍  I'm based in India
+-  🖥️  See my portfolio at [Kaushik Raj](https://read-me-gules.vercel.app/)
 - ⚡ Fun fact **Discover a wheel and spin it.**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kaushik-raj-86929226a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
