@@ -1,47 +1,87 @@
-<h1 align="center">Hi 👋, I'm Kaushik Raj</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shitcodebykaushik&label=Profile%20views&color=0e75b6&style=flat" alt="shitcodebykaushik" /> </p>
+<h1 align="center">👋 Hello, I'm Kaushik Raj</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shitcodebykaushik&theme=juicyfresh" alt="shitcodebykaushik" /></a> </p>
-
-- 🔭 I’m currently working on **Python and React-native**
-- 👯 I’m looking to collaborate on **React**
-- 🌱 I’m currently learning **Devops**
-- 💬 Ask me about **JavaScript ,Rust,DEV-OPS**
-- 📫 Reach me here **algorithmunloack@gmail.com**
-- 🌍  I'm based in India
--  🖥️  See my portfolio at [Kaushik Raj](https://read-me-gules.vercel.app/)
-- ⚡ Fun fact **Discover a wheel and spin it.**
-
-<div> <a href="www.linkedin.com/in/
-kaushik-raj-86929226a
-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/shitcodebykaushik" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:algorithmunloack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaushik-raj-86929226a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaushik-raj-86929226a/" height="30" width="40" /></a><a href="https://discord.gg/#5031" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="#5031" height="30" width="40" /></a></p>
-
-<h3 align="center">Languages & Tools</h3>
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=go,rust,cpp,html,js,css,python,bash,vscode,docker,kubernetes,jenkins,express,git,github,linux,kali,redhat,arch,md,nextjs,npm,nodejs,postman,tauri,react,redis,regex,replit,stackoverflow,mongodb,vercel,reactnative&perline=8&theme=dark" />
+<p align="center">
+<a href="https://www.linkedin.com/in/kaushik-raj-86929226a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/shitcodebykaushik" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:algorithmunloack@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
+---
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitcodebykaushik&langs_count=8&theme=dark" alt=shitcodebykaushik />
+<h2 align="center">🙋‍♂️ About Me</h2>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shitcodebykaushik&show_icons=true&locale=en&theme=highcontrast" alt="shitcodebykaushik" /></p>
+<p align="center">
+I’m a  Software Developer from 🇮🇳 India, with a love for exploring cutting-edge technologies, diving deep into programming languages, and creating scalable, efficient solutions. My interests span from backend development to DevOps and system design.
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shitcodebykaushik&theme=merko" alt="shitcodebykaushik" /></p>
+- 🔭 **Current Projects:** Python, React Native, and Rust-based applications.  
+- 👯 **Looking to Collaborate:** React, Rust, and Open Source projects.  
+- 🌱 **Currently Learning:** DevOps practices, Kubernetes, and CI/CD pipelines.  
+- 💬 **Ask Me About:** JavaScript, Rust, and DevOps tools.  
+- 📫 **Contact Me:** algorithmunloack@gmail.com  
+- ⚡ **Fun Fact:** I believe that every solution starts with curiosity—*spin the wheel and see where it leads!*  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+---
+
+<h2 align="center">🔧 Technologies & Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,rust,cpp,python,js,html,css,bash,nodejs,react,nextjs,redux,express,mongodb,postgres,redis,docker,kubernetes,jenkins,git,github,linux,vercel,postman,vscode,regex,reactnative&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-<a href="https://github.com/shitcodebykaushik">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shitcodebykaushik&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shitcodebykaushik&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shitcodebykaushik&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shitcodebykaushik&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shitcodebykaushik&theme=algolia" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shitcodebykaushik&show_icons=true&theme=tokyonight" alt="Kaushik Raj's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shitcodebykaushik&theme=tokyonight" alt="GitHub Streak" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shitcodebykaushik&theme=tokyo-night"/>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitcodebykaushik&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shitcodebykaushik&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shitcodebykaushik&theme=tokyo-night" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+<h2 align="center">💼 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaushik-raj-86929226a/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shitcodebykaushik" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:algorithmunloack@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+---
+
+<h2 align="center">🎯 Summary Cards</h2>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shitcodebykaushik&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shitcodebykaushik&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shitcodebykaushik&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shitcodebykaushik&theme=tokyonight" height="150" />
+</div>
+
+---
+
+<h2 align="center">💡 Fun Activity</h2>
+<p align="center">Here’s a random programming joke for you:</p>
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
