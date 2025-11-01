@@ -1,0 +1,53 @@
+# File: .github/workflows/metrics.yml
+
+name: Generate Metrics Card
+
+on:
+  # Runs once a day at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # Allows manual runs from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      # Required for the action to commit the generated SVG file back to your repo
+      contents: write 
+      
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # --- REQUIRED SETUP ---
+          token: ${{ secrets.GITHUB_TOKEN }} # Default token provided by GitHub
+          filename: github-metrics.svg      # The name of the file that will appear in your README
+          user: shitcodebykaushik           # YOUR GitHub username
+
+          # --- BASE METRICS (The Main Blocks) ---
+          base: header, repositories, activity, metadata # Show overall activity and repo stats
+          config_timezone: Asia/Kolkata # Set your timezone for accurate timing
+          
+          # --- PLUGINS (The Detailed Sections) ---
+
+          # 1. Languages (Critical for the Rust look)
+          plugin_languages: yes
+          plugin_languages_sections: most-used # Focus on the bar chart
+          plugin_languages_details: percentage # Show percentages for a cleaner view
+          plugin_languages_ignored: dockerfile, makefile, shell, yml # Hides minor config languages
+          
+          # 2. Licenses, Lines of Code, and Sponsors (As seen in the original card)
+          plugin_licenses: yes
+          plugin_lines: yes
+          plugin_sponsors: yes 
+
+          # 3. Recent Activity (To get the "Recent coding habits" block)
+          plugin_activity: yes
+          plugin_activity_limit: 5 # Show 5 recent events
+          plugin_activity_days: 14 # Look back 14 days
+          
+          # 4. Gist, Stargazers, Followers
+          plugin_gists: yes
+          plugin_followup: yes
+          
+          # 5. Theme
+          template: classic # Use the simple, classic layout for maximum data density
